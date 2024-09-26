@@ -80,6 +80,10 @@ footer {
 
 @media screen and (max-width: 980px) {
     
+    h1 {
+        font-size: 3.3rem;
+    }
+
     .recipe-grid {
         display: flex;
         flex-direction: column;

@@ -68,3 +68,22 @@ ol {
 .steps {
     width: 500px;
 }
+
+@media screen and (max-width: 980px) {
+    
+    .container {
+        padding-left: 2%;
+    }
+
+    p,
+    ul,
+    ol,
+    .steps {
+        width: 330px;
+    }
+    
+    img {
+        width: 300px;
+        height: auto;
+    }
+}
